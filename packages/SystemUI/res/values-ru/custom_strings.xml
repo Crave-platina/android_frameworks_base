@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="drag_or_tap_to_add_tiles">Удерживайте и перетащите или коснитесь, чтобы добавить плитки</string>
+    <string name="status_bar_nfc">NFC</string>
+    <string name="accessibility_status_bar_nfc">Nfc</string>
+    <string name="reboot_to_recovery_title">Восстановление</string>
+    <string name="reboot_to_recovery_message">Перезагрузка в рекавери</string>
+    <string name="reboot_to_bootloader_title">Bootloader</string>
+    <string name="reboot_to_bootloader_message">Перезагрузка в загрузчик</string>
+    <string name="reboot_title">Перезагрузка</string>
+    <string name="reboot_message">Перезагрузка системы</string>
+    <string name="quick_settings_caffeine_label">Кофеин</string>
+    <string name="accessibility_quick_settings_caffeine_off">Кофеин выключен</string>
+    <string name="accessibility_quick_settings_caffeine_on">Кофеин включен</string>
+    <string name="qs_data_switch_label">Переключение карты данных</string>
+    <string name="qs_data_switch_toast_0">В данный момент SIM-карта не вставлена</string>
+    <string name="qs_data_switch_toast_1">В настоящее время только одна SIM-карта вставлена</string>
+    <string name="qs_data_switch_text_1">SIM 1</string>
+    <string name="qs_data_switch_text_2">SIM 2</string>
+    <string name="qs_data_switch_changed_1">Переключена карта данных на SIM 1.</string>
+    <string name="qs_data_switch_changed_2">Переключена карта данных на SIM 2.</string>
+    <string name="face_unlock_recognizing">Распознавание лица...</string>
+    <string name="screenshot_delete_label">Удалить</string>
+    <string name="screenshot_delete_description">Удалить снимок экрана</string>
+    <string name="status_bar_icons_title">Значки строки состояния</string>
+    <string name="status_bar_vpn">VPN</string>
+    <string name="status_bar_data_saver">Экономия данных</string>
+    <string name="status_bar_volte_icon_title">VoLTE</string>
+    <string name="status_bar_vonr_icon_title">VoNR</string>
+    <string name="status_bar_vowifi_icon_title">VoWiFi</string>
+    <string name="accessibility_assistant_button">Ассистент AI</string>
+    <string name="data_disabled_icon_title">Индикатор данных отключен</string>
+    <string name="show_fourg_icon_title">Индикатор сети 4G</string>
+    <string name="qs_tile_ringer_mode_label">Режим звонка</string>
+    <string name="status_bar_roaming">Индикатор роуминга</string>
+</resources>
