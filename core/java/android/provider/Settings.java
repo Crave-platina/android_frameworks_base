@@ -12811,41 +12811,6 @@ public final class Settings {
         public static final String BERRY_BLACK_THEME = "berry_black_theme";
 
         /**
-         * User selectable PIF data.
-         * @hide
-         */
-        @Readable
-        public static final String PIF_DATA = "pif_data";
-
-        /**
-         * PIF data fetched from our repo.
-         * @hide
-         */
-        @Readable
-        public static final String FETCHED_PIF = "fetched_pif";
-
-        /**
-         * User selectable keybox data.
-         * @hide
-         */
-        @Readable
-        public static final String KEYBOX_DATA = "keybox_data";
-
-        /**
-         * Store vboot key.
-         * @hide
-         */
-        @Readable
-        public static final String VBOOT_KEY = "vboot_key";
-
-        /**
-         * Store vboot hash.
-         * @hide
-         */
-        @Readable
-        public static final String VBOOT_HASH = "vboot_hash";
-
-        /**
          * Keys we no longer back up under the current schema, but want to continue to
          * process when restoring historical backup datasets.
          *
